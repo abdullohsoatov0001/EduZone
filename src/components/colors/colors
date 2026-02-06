@@ -1,0 +1,39 @@
+Asosiy ranglar:
+
+Primary (Asosiy): #1E3A8A — chuqur ko‘k (knopkalar, linklar, active states)
+
+Secondary (Ikkinchi darajali): #3B82F6 — yengil ko‘k (hover, badges, highlights)
+
+Background (Fon): #FFFFFF — oq
+
+Text (Matn): #111827 — quyuq qora/charcoal (asosiy matn), #6B7280 — kulrang (secondary text)
+
+Knopkalar:
+
+Primary button: #1E3A8A fon + oq matn
+
+Hover: #3B82F6 fon + oq matn
+
+Disabled: #CBD5E1 fon + #9CA3AF matn
+
+Linklar va interaktiv elementlar:
+
+Normal: #1E3A8A
+
+Hover / Active: #3B82F6
+
+Cards / Containers / Borders:
+
+Card background: #F9FAFB (engil kulrang)
+
+Border: #E5E7EB (engil kulrang)
+
+Shadow: rgba(0,0,0,0.05)
+
+Alerts / Tags (Optional):
+
+Success: #10B981 (yashil)
+
+Warning: #F59E0B (sariq)
+
+Error: #EF4444 (qizil)
