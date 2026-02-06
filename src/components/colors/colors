@@ -1,31 +1,39 @@
-🔹 Minimal & professional
+Asosiy ranglar:
 
-To‘q ko‘k (#0A2540) + Oq (#FFFFFF)
-👉 header, navbar, rasmiy saytlar
+Primary (Asosiy): #1E3A8A — chuqur ko‘k (knopkalar, linklar, active states)
 
-Qora (#111111) + Och kulrang (#F2F2F2)
-👉 portfolio, landing page
+Secondary (Ikkinchi darajali): #3B82F6 — yengil ko‘k (hover, badges, highlights)
 
-🔹 Zamonaviy & chiroyli
+Background (Fon): #FFFFFF — oq
 
-Binafsha (#6C63FF) + Oq (#FFFFFF)
-👉 startup, IT, kreativ sayt
+Text (Matn): #111827 — quyuq qora/charcoal (asosiy matn), #6B7280 — kulrang (secondary text)
 
-Ko‘k (#2563EB) + Och kulrang (#F8FAFC)
-👉 dashboard, admin panel
+Knopkalar:
 
-🔹 Yengil & ko‘zni tinchlantiradi
+Primary button: #1E3A8A fon + oq matn
 
-Yashil (#16A34A) + Oq (#FFFFFF)
-👉 eco, sog‘liq, blog
+Hover: #3B82F6 fon + oq matn
 
-Moviy (#0EA5E9) + Oqartirilgan oq (#F0F9FF)
-👉 zamonaviy UI/UX
+Disabled: #CBD5E1 fon + #9CA3AF matn
 
-🔹 Diqqat tortuvchi (accent bilan)
+Linklar va interaktiv elementlar:
 
-To‘q kulrang (#1F2933) + Sariq (#FACC15)
-👉 CTA tugmalar uchun zo‘r
+Normal: #1E3A8A
 
-Ko‘k (#1D4ED8) + Apelsin (#FB923C)
-👉 marketing sahifalar
+Hover / Active: #3B82F6
+
+Cards / Containers / Borders:
+
+Card background: #F9FAFB (engil kulrang)
+
+Border: #E5E7EB (engil kulrang)
+
+Shadow: rgba(0,0,0,0.05)
+
+Alerts / Tags (Optional):
+
+Success: #10B981 (yashil)
+
+Warning: #F59E0B (sariq)
+
+Error: #EF4444 (qizil)
