@@ -25,7 +25,7 @@ const Dashboard = () => {
     return (
         <div className="min-h-screen bg-gray-50 p-6">
             <header className="flex justify-between items-center mb-6">
-                <h1 className="text-3xl font-bold text-blue-800">EduZone Dashboard</h1>
+                <h1 className="text-3xl font-bold text-blue-800">FindZone Dashboard</h1>
                 <button className="bg-red-500 text-white px-4 py-2 rounded-xl hover:bg-red-600 transition">
                     Logout
                 </button>
